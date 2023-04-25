@@ -25,14 +25,9 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
+
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -62,15 +57,13 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello_World] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Hello_World]** This project aims to help learn about branch creation, version control, and GitHub flow, while exercising skills with GitHub commands like pull requests, descriptive commits, and creating easy-to-understand README sections.
+**[Hello_World]** 
+This project aims to help learn about branch creation, version control, and GitHub flow, while exercising skills with GitHub commands like pull requests, descriptive commits, and creating easy-to-understand README sections.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> The project was built using:
 
 <details>
   <summary>HTML</summary>
@@ -91,8 +84,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Branch creation]**
 - **[Version control]**
 - **[GitHub flow]**
@@ -103,13 +94,6 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -198,18 +182,12 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Claudia Rojas**
 
 - GitHub: [@ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/claudia-soto-260504208/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/claudia-soto-260504208/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,7 +195,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 -**[Implement Responsive Design]**
 -**[Add JavaScript Functionality]**
@@ -239,7 +216,6 @@ Feel free to check the issues page.
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project, please give it a ⭐️!
 
@@ -249,7 +225,6 @@ If you like this project, please give it a ⭐️!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank...
 <p> * Microverse for providing the opportunity to learn Git and GitHub in a collaborative environment.</p>
@@ -261,7 +236,6 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
