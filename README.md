@@ -60,38 +60,32 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello_World] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello_World]** This project aims to help learn about branch creation, version control, and GitHub flow, while exercising skills with GitHub commands like pull requests, descriptive commits, and creating easy-to-understand README sections.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> The project was built using:
 
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>CSS</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -99,9 +93,11 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Branch creation]**
+- **[Version control]**
+- **[GitHub flow]**
+- **[Pull request]**
+- **[Descriptive commits]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,13 +115,15 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+### Setup
+Clone this repository to your local machine:
 
-To get a local copy up and running, follow these steps.
+git clone https://github.com/ClaudiaRojasSoto/Hello_World
+
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to use this project, you need to have Node.js and npm installed on your local machine.
 
 <!--
 Example command:
@@ -135,22 +133,13 @@ Example command:
 ```
  -->
 
-### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
-Install this project with:
+Install the necessary dependencies by running:
+
+npm install
 
 <!--
 Example command:
@@ -163,7 +152,9 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To start the project, run the following command:
+
+npm start
 
 <!--
 Example command:
@@ -177,6 +168,8 @@ Example command:
 
 To run tests, run the following command:
 
+  npm test
+
 <!--
 Example command:
 
@@ -188,6 +181,8 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
+
+  npm run build
 
 <!--
 Example:
@@ -205,17 +200,16 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Claudia Rojas**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/claudia-soto-260504208/)
 
 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/claudia-soto-260504208/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,9 +219,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+-**[Implement Responsive Design]**
+-**[Add JavaScript Functionality]**
+-**[Integrate Backend Functionality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,7 +231,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,7 +241,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project, please give it a ⭐️!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,6 +252,8 @@ If you like this project...
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank...
+<p> * Microverse for providing the opportunity to learn Git and GitHub in a collaborative environment.</p>
+<p> * GitHub Docs for providing a wealth of information on Git and GitHub.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
